@@ -1,26 +1,24 @@
-# [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
-
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+# [Bootstrap - CDS](https://github.com/steliancorbut/cds)
 
 ## Preview
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-grayscale/)**
+**[View Live Preview](http://cdsromania.ro/)**
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/grayscale/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-grayscale.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-grayscale)
+* [Download the latest release on Bootstrap CDS](https://github.com/steliancorbut/cds)
+* Clone the repo: `git clone https://github.com/steliancorbut/cds.git`
 
 ## Usage
 
 After download/unzip/installation, in resulted folder run:
-`npm install` for node_modules 
-`npm install -g gulp` this will install Gulp.js globally if you haven`t 
-`gulp vendor` copies dependencies from node_modules to the vendor directory
+- `npm install` for node_modules. (Node.js must exist)
+- `npm install -g gulp` this will install Gulp.js globally (if you haven`t)
+- `gulp vendor` copies dependencies from node_modules to the vendor directory
 
-and then run `gulp dev` which will open up a preview of the index.html in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. 
+and then 
+- run `gulp dev` which will open up a preview of the index.html in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. 
 You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
 #### Gulp Tasks
