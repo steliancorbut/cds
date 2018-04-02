@@ -2,7 +2,7 @@
 
 ## Preview
 
-**[View Live Preview on LAN](http://10.40.90.2/cds/)**
+**[View Live Preview](http://cdsromania.ro/)**
 
 ## Download and Installation
 

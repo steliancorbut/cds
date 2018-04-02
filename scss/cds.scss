@@ -137,7 +137,7 @@ a {
   text-align: center;
 
   color: white;
-  background: url('../img/intro-bg.jpg') no-repeat bottom center scroll;
+  background: url('../img/intro-bg-min.jpg') no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -173,8 +173,9 @@ a {
 
   width: 55px;
   height: 55px;
-  margin-top: 15px;
-  line-height: 45px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  line-height: 40px;
 
   -webkit-transition: background 0.3s ease-in-out;
   -moz-transition: background 0.3s ease-in-out;
@@ -200,7 +201,7 @@ a {
 
 .technologies-section {
   color: white;
-  background: url('../img/downloads-bg.jpg') no-repeat center center scroll;
+  background: url('../img/tech-bg-min.jpg') no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
